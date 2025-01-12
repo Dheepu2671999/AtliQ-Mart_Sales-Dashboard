@@ -16,7 +16,7 @@ The data used for the analysis is taken from AtliQ Mart's internal databases. Th
 
 
 ## Business Requests
-[Presentation](Business Request.pptx)
+Refer to [Business Request.pptx] 
 
 ## Limitations and Challenges
 
